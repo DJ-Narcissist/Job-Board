@@ -1,0 +1,6 @@
+.Homepage{
+ /* Vertical  centerpage*/
+ height: calc();
+ display: flex;
+ align-items: center;   
+}
